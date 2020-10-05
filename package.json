@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
+  "typings": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/vtex/country-iso-3-to-2.git"
